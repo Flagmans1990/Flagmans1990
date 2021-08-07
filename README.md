@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics and programming.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate on JS.
-- 📫 How to reach me ...
+- 📫 How to reach me: www.co-re.lt
 
 <!---
 Flagmans1990/Flagmans1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
